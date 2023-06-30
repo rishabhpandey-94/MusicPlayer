@@ -45,7 +45,7 @@
     width: 70%;
     border-radius: 12px;
     padding: 34px;
-    background-image: url('/image/backgroundspoty.jpg');
+    background-image: url('image/backgroundspoty.jpg');
  }
  .bottom{
     position: sticky;
